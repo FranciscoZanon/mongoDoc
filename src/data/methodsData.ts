@@ -1,4 +1,3 @@
-import { Search } from 'lucide-react';
 import { Methods } from '../types';
 
 export const methodsData: Methods = {
